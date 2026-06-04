@@ -1,2 +1,3 @@
 # MyBITS
-A little bit of what I'm learning.
+Every bit of my learning process, shared.
+(Cada 'bit' do meu processo de aprendizado, compartilhado.)
