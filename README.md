@@ -1,4 +1,4 @@
-# MyBITS: Cada 'bit' do meu processo de aprendizado, compartilhado.
+# MyBITS: Cada "bit" do meu processo de aprendizado, compartilhado.
 
 Bem-vindo(a) ao meu repositório de estudos! Aqui eu centralizo toda a minha evolução, códigos e resoluções de desafios ao longo da minha jornada no mundo da programação.
 
